@@ -5,11 +5,9 @@ This is homework try it practice questions from Unit 1.
 
 My answers of code of my program for each lesson in unit 1 are
 
-all related to each other about different methods in Java
+all related to each other about introduction to programming and learning basic programming
 
-and using object oriented programming or OOP skills in Java
-
-to create readable and excellent programs in Java as I dive
+skills to created a start of basic readable and excellent programs in Java as I dive
 
 in deeper throught my course of computer science grade 12,
 
